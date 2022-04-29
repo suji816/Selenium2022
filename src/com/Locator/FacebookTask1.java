@@ -26,7 +26,7 @@ public class FacebookTask1 {
 		 
 		 txtpassword.sendKeys("8300191276");
 		 
-		 
+		 driver.quit();
 		
 		
 		
